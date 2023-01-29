@@ -16,12 +16,9 @@
 
 ## Список таблиц в слое DDS, из которых будут браться данные для витрины
 
-| Название таблицы | Наличие |
-| ---| --- |
-| dm_couriers | N |
-|fct_deliveries|N|
-|dm_orders|Y|
-|dm_timestamps|Y|
 
 
-## Список сущностей и их поля, которые будут загружаться из источников
+dm_couriers
+fct_deliveries
+dm_orders
+dm_timestamps
